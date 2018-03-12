@@ -21,6 +21,7 @@ Speakers:
 Prep Resources:
 
 ** Fast.ai Course + GPU Setup (https://github.com/aisat-hyd/week7/blob/master/README.md#setup_gpu)
+
 ** Important to setup Pytorch+google-collab (https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
 
 1. Fast.ai Lesson 4 - http://course.fast.ai/lessons/lesson4.html
