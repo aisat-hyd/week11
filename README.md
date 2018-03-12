@@ -22,7 +22,7 @@ Prep Resources:
 
 ** Fast.ai Course + GPU Setup (https://github.com/aisat-hyd/week7/blob/master/README.md#setup_gpu)
 
-** Important to setup Pytorch+google-collab (https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
+** Important to setup Pytorch+google-collab for CS231n (https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
 
 1. Fast.ai Lesson 4 - http://course.fast.ai/lessons/lesson4.html
 2. CS231n lecture 3 - http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf
