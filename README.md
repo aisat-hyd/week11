@@ -14,7 +14,7 @@ Speakers:
 
 1. Fast.ai Lesson 4 - TBD
 2. CS231n lecture 3 - Yashaswi
-3. Stat385 lecture 3 - TBD
+
 
 ------------------------------------
 
@@ -26,4 +26,4 @@ Prep Resources:
 
 1. Fast.ai Lesson 4 - http://course.fast.ai/lessons/lesson4.html
 2. CS231n lecture 3 - http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf
-3. Check out Kaggle and make account uf you don't have, also explore it :)
+3. Check out Kaggle and make account if you don't have, also explore it :)
